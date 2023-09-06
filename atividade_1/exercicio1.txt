@@ -1,0 +1,2 @@
+Use o código de base de cliente que envia uma mensagem e servidor que recebe ela e faz um echo,
+e implemente um sistema cliente-servidor no qual o cliente e o servidor abram um chat entre si.
